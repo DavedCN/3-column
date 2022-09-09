@@ -15,6 +15,7 @@ body
   font-family: 'Lexend Deca', sans-serif;
   font-weight: lighter;
   min-height: calc(100vh - 0.1px);
+  display: flex;
   
 
 
@@ -127,12 +128,13 @@ img
 {
  
 
-.bod
+
 
 .container 
 {
     display: flex;
    flex-direction: row;
+
   
   
  
