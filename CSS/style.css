@@ -15,8 +15,10 @@ body
   font-family: 'Lexend Deca', sans-serif;
   font-weight: lighter;
   min-height: calc(100vh - 0.1px);
-  
-  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column
   
 
 
@@ -28,10 +30,7 @@ body
   max-width: 37.8rem;
   margin: 35px ;
   font-size: 12px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
+ ;
  
 
 
@@ -126,7 +125,7 @@ img
 {
  
 
-
+.bod
 
 .container 
 {
